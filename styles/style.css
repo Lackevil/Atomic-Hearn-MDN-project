@@ -1,0 +1,39 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(184, 36, 36);
+}
+
+body {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 0 20px 20px 20px;
+    background-color: rgb(156, 36, 36);
+    border: 5px solid rgb(104, 29, 29);
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 15px 0px;
+}
+
+h1 a {
+    color: #fff;
+    text-shadow: 1px 1px 3px #fff;
+}
+
+img {
+    display: block;
+    width: 90%;
+    margin: 0 auto;
+}
+
+p, a, li, h2 {
+    color: #fff;
+    letter-spacing: 1.2px;
+    line-height: 2;
+}
+
+#shit {
+    text-decoration: line-through;
+}
